@@ -1,11 +1,17 @@
 # Gemini Chatbot
 
+## Table of Contents
+1. [Do it yourself](#do-it-yourself)
+3. [Installation](#installation)
 
+## Do it yourself
+In this quick start tutorial, you'll build a simple AI-chatbot with a streaming user interface. Along the way, you'll learn key concepts and techniques that are fundamental to using the SDK in your own projects.
+
+## Demo
 https://github.com/user-attachments/assets/9290d5a6-7516-46b7-8300-81b452a62ee2
 
 
-
-### Installation
+## Installation
 Follow these steps to run the project locally:
 
 - Clone the repository:
